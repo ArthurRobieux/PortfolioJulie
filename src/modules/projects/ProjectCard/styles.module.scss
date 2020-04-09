@@ -1,0 +1,20 @@
+.projectCard {
+  margin: 20px auto;
+  border: 1px solid black;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  text-decoration: none;
+  min-width: 50%;
+  max-width: 50%;
+}
+
+.title {
+  font-size: 20px;
+  margin: 20px;
+}
+
+.text {
+  margin: 20px;
+}
